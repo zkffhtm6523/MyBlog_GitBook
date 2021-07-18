@@ -21,6 +21,6 @@
 
 ## CS
 
-* [Network](cs/network.md)
-* [CORS란?](cs/cors.md)
+* [Network](cs/network/README.md)
+  * [CORS란?](cs/network/cors.md)
 

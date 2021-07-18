@@ -27,5 +27,6 @@
 
 ## Git
 
+* [Blog](git/blog.md)
 * [Flow](git/flow.md)
 

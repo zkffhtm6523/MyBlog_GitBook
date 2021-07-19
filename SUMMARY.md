@@ -23,6 +23,7 @@
 
 * [Linux](linux-1/linux/README.md)
   * [Curl](linux-1/linux/untitled.md)
+  * [SCP](linux-1/linux/scp.md)
 
 ## DBMS
 

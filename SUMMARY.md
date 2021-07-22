@@ -16,6 +16,7 @@
 * [SpringBoot](springboot/springboot/README.md)
   * [Kotlin](springboot/springboot/kotlin.md)
   * [Java](springboot/springboot/java/README.md)
+    * [S3 Module](springboot/springboot/java/s3-module.md)
     * [비동기 -&gt; Async](springboot/springboot/java/greater-than-async.md)
     * [WebClient vs RestTemplate](springboot/springboot/java/webclient-vs-resttemplate.md)
 

@@ -6,7 +6,7 @@
 
 ### WebClient
 
-```text
+```java
 dependencies {
         compile 'org.springframework.boot:spring-boot-starter-webflux'
         compile 'org.projectreactor:reactor-spring:1.0.1.RELEASE'
@@ -15,7 +15,7 @@ dependencies {
 
 #### - WebClient Instance 생성
 
-```text
+```java
 Webclient client = WebClient.builder()
                             .baseUrl("http://localhost:8080")
                             .defaultCookie("쿠키키","쿠키값")
@@ -25,7 +25,7 @@ Webclient client = WebClient.builder()
 
 #### - Request 요청하기
 
-```text
+```java
 // 1.일단 HTTP 메소드를 정해야한다.
 WebClient.UriSpec<WebClient.RequestBodySpec> req = client.post();
 
@@ -45,7 +45,7 @@ WebClient.RequestHeadersSpec<?> req2 = client.post()
 > 1. exchange : ClientResponse를 상태값 그리고 헤더와 함께 가져온다.
 > 2. retrive : body를 가져온다
 
-```text
+```java
 String response = req.exchange().block().bodyToMono(String.class).block();
 
 String response2 = req2.retrieve().bodyToMono(String.class).block();

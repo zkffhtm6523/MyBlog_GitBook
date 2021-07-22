@@ -8,6 +8,7 @@
 * [Persistence](springboot/persistence/README.md)
   * [JPA](springboot/persistence/jpa/README.md)
     * [연관관계](springboot/persistence/jpa/undefined.md)
+    * [Entity](springboot/persistence/jpa/entity.md)
     * [Untitled](springboot/persistence/jpa/untitled.md)
   * [MyBatis](springboot/persistence/mybatis-1/README.md)
     * [CDATA](springboot/persistence/mybatis-1/cdata.md)

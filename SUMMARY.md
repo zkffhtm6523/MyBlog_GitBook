@@ -28,6 +28,7 @@
 ## OS <a id="linux-1"></a>
 
 * [Linux](linux-1/linux/README.md)
+  * [Systemd](linux-1/linux/systemd.md)
   * [Curl](linux-1/linux/untitled.md)
   * [SCP](linux-1/linux/scp.md)
 

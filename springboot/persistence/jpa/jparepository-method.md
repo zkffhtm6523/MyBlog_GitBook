@@ -16,13 +16,21 @@ description: Query 작성 시 문법
 
 "퍼지 검색"에 관한 것이다. Like를 붙이면, 인수에 지정된 텍스트를 포함하는 엔티티를 검색한다. 또한 NotLike을 쓰면 인수의 텍스트를 포함하지 않는 것을 검색한다. "findByNameLike"이라면, name에서 인수의 텍스트를 퍼지 검색한다.
 
-#### StartingWith / EndingWith
+## StartingWith / EndingWith
 
-텍스트 값에서 인수에 지정된 텍스트로 시작하거나 끝나는 것을 검색하기 위한 것이다. findByNameStartingWith\("A"\)이라면, name의 값이 "A"로 시작하는 항목을 검색한다.
+```java
+// name의 값이 "A"로 시작하는 항목을 검색한다.
+List findByNameStartingWith("A");
+```
 
-#### IsNull / IsNotNull
+## IsNull / IsNotNull
 
-값이 null이 거나, 혹은 null이 아닌 것을 검색한다. 인수는 필요없다. "findByNameIsNull\(\)"이라면, name의 값이 null의 것만 검색한다.
+```java
+// 값이 null이 거나, 혹은 null이 아닌 것을 검색한다. 인수는 필요없다.
+List findByNameIsNull();
+```
+
+
 
 #### True / False
 

@@ -9,6 +9,7 @@
   * [환경설정](springboot/express/undefined.md)
 * [Persistence](springboot/persistence/README.md)
   * [JPA](springboot/persistence/jpa/README.md)
+    * [JpaRepository Method](springboot/persistence/jpa/jparepository-method.md)
     * [연관관계](springboot/persistence/jpa/undefined.md)
     * [Entity](springboot/persistence/jpa/entity.md)
     * [Untitled](springboot/persistence/jpa/untitled.md)
@@ -46,6 +47,8 @@
 
 * [DNS](cs/dns/README.md)
   * [Gabia DNS 설정](cs/dns/gabia-dns.md)
+* [Algorithm](cs/algorithm/README.md)
+  * [Fuzzy Search](cs/algorithm/fuzzy-search.md)
 * [Network](cs/network/README.md)
   * [CORS란?](cs/network/cors.md)
   * [WebHook && Pooling](cs/network/webhook-and-and-pooling.md)

@@ -32,6 +32,8 @@
 ## OS <a id="linux-1"></a>
 
 * [Linux](linux-1/linux/README.md)
+  * [dig](linux-1/linux/dig.md)
+  * [nslookup](linux-1/linux/nslookup.md)
   * [Systemd](linux-1/linux/systemd.md)
   * [Curl](linux-1/linux/untitled.md)
   * [SCP](linux-1/linux/scp.md)
@@ -42,6 +44,8 @@
 
 ## Server
 
+* [AWS](server/aws.md)
+* [Amazon](server/amazon.md)
 * [Docker](server/docker/README.md)
   * [명령어 정리](server/docker/undefined.md)
 

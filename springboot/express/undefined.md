@@ -35,11 +35,11 @@ vi package.json
 # script -> start 추가
 scripts": { "start": "node index.js"}
 
-# 백그라운드로 index.js 실
+# 백그라운드로 index.js 실행
 npm run start &
 ```
 
-## 2. MongoDB 설
+## 2. MongoDB 설치 
 
 * 기존 DB 설치 완료된 상황에서 패키지 설치 진행
 

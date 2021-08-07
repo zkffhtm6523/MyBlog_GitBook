@@ -25,5 +25,5 @@ module.exports = router;
 
 ## 용도 
 
-* 다음 라우터로의 전
+* 다음 라우터로의 전이
 

@@ -38,6 +38,7 @@
   * [Systemd](linux-1/linux/systemd.md)
   * [Curl](linux-1/linux/untitled.md)
   * [SCP](linux-1/linux/scp.md)
+  * [유저 추가하기](linux-1/linux/undefined.md)
 
 ## DBMS
 

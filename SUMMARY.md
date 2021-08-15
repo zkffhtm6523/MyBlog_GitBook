@@ -40,10 +40,6 @@
   * [SCP](linux-1/linux/scp.md)
   * [유저 추가하기](linux-1/linux/undefined.md)
 
-## DBMS
-
-* [Redis](dbms/redis.md)
-
 ## Server
 
 * [AWS](server/aws.md)
@@ -51,15 +47,23 @@
 * [Docker](server/docker/README.md)
   * [명령어 정리](server/docker/undefined.md)
 
+## Network <a id="network-1"></a>
+
+* [IP 연결 방식](network-1/ip.md)
+* [DNS](network-1/dns/README.md)
+  * [Gabia DNS 설정](network-1/dns/gabia-dns.md)
+* [Web](network-1/network/README.md)
+  * [CORS란?](network-1/network/cors.md)
+  * [WebHook && Pooling](network-1/network/webhook-and-and-pooling.md)
+
+## DBMS
+
+* [Redis](dbms/redis.md)
+
 ## CS
 
-* [DNS](cs/dns/README.md)
-  * [Gabia DNS 설정](cs/dns/gabia-dns.md)
 * [Algorithm](cs/algorithm/README.md)
   * [Fuzzy Search](cs/algorithm/fuzzy-search.md)
-* [Network](cs/network/README.md)
-  * [CORS란?](cs/network/cors.md)
-  * [WebHook && Pooling](cs/network/webhook-and-and-pooling.md)
 
 ## Git
 

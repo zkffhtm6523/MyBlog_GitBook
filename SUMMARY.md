@@ -53,6 +53,7 @@
 
 ## Network <a id="network-1"></a>
 
+* [Load Balancing](network-1/load-balancing.md)
 * [IP 연결 방식](network-1/ip.md)
 * [DNS](network-1/dns/README.md)
   * [Gabia DNS 설정](network-1/dns/gabia-dns.md)

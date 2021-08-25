@@ -37,6 +37,7 @@
 ## OS <a id="linux-1"></a>
 
 * [Linux](linux-1/linux/README.md)
+  * [journalctl](linux-1/linux/journalctl.md)
   * [dig](linux-1/linux/dig.md)
   * [nslookup](linux-1/linux/nslookup.md)
   * [Systemd](linux-1/linux/systemd.md)

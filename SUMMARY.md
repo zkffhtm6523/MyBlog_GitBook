@@ -47,6 +47,7 @@
 
 ## Server
 
+* [Sentry](server/sentry.md)
 * [AWS](server/aws.md)
 * [Amazon](server/amazon.md)
 * [Docker](server/docker/README.md)

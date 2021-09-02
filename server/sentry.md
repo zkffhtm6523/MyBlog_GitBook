@@ -6,5 +6,9 @@
 
 
 
+{% embed url="https://gogo-jjm.tistory.com/53" %}
+
+{% embed url="https://ondolroom.tistory.com/766?category=951225" %}
+
 
 

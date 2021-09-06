@@ -47,6 +47,8 @@
 
 ## Server
 
+* [Flyway](server/flyway.md)
+* [JVM](server/jvm.md)
 * [Sentry](server/sentry.md)
 * [AWS](server/aws.md)
 * [Amazon](server/amazon.md)
@@ -56,6 +58,7 @@
 ## Network <a id="network-1"></a>
 
 * [Load Balancing](network-1/load-balancing.md)
+* [TCP/IP & Socket 통신](network-1/tcp-ip-and-socket.md)
 * [IP 연결 방식](network-1/ip.md)
 * [DNS](network-1/dns/README.md)
   * [Gabia DNS 설정](network-1/dns/gabia-dns.md)
@@ -67,6 +70,7 @@
 ## DBMS
 
 * [Redis](dbms/redis.md)
+* [Replication](dbms/replication.md)
 
 ## CS
 

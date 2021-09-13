@@ -36,6 +36,8 @@
 
 ## OS <a id="linux-1"></a>
 
+* [Mac](linux-1/mac/README.md)
+  * [한글 깨짐 현상](linux-1/mac/undefined.md)
 * [Linux](linux-1/linux/README.md)
   * [journalctl](linux-1/linux/journalctl.md)
   * [dig](linux-1/linux/dig.md)

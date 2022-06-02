@@ -6,7 +6,6 @@ description: erfdsfasdfs
 
 ```java
 public static void main(args[]) throw exception{
-    
+    // 1
 }
 ```
-
